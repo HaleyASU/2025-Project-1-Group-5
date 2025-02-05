@@ -6,7 +6,7 @@
 
 ## Data Source
 
-- [FRED(Federal Reserve Economic Data)](https://fred.stlouisfed.org/)
+- [FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org/)
 
 ## Other Tools and Libraries
 - ChatGPT and Copilot assisted in a number of ways:
